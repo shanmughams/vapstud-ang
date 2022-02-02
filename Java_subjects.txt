@@ -1,0 +1,64 @@
+https://www.frgconsulting.com/blog/java-interview-questions/
+
+Concepts from core Java:
+------------------------
+OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
+String handling
+Collection framework
+Multithreading
+Exception handling
+Generics
+Synchronisation
+Serialisation & De-serialisation
+Concurrent collection
+JDBC (Java Database Connectivity)
+
+https://www.java67.com/2013/07/15-java-enum-interview-questions-amswers-for-experienced-programmers.html
+https://www.javatpoint.com/corejava-interview-questions
+https://medium.com/javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab
+
+Popular Frameworks:
+------------------------
+Spring (MVC, Core, JDBC, ORM, AOP)
+Spring REST 
+Hibernate ORM framework
+Ecaching - layer 1 & layer 2 cache - ex
+
+
+Java Design patterns - 10 (theory & impl)	
+------------------------------------------------
+https://www.java67.com/2012/09/top-10-java-design-pattern-interview-question-answer.html	
+	- Producer-consumer design pattern
+	- Observer
+	- Builder
+	- Singleton
+	- 
+Reactive framework
+
+Message Queues, Kafka 
+
+
+
+https://www.quora.com/What-is-a-complete-list-of-topics-of-Core-Java-and-topics-of-Advanced-Java
+
+Advanced :
+Build tools: Maven, Jenkins/Hudson, Gradle
+Spring framework : Spring boot+ Spring JDBC + Spring MVC + Spring Security + Spring Transaction etc
+Web Services: Rest, Soap (if)
+Object Relational Mapping: JPA + Hibernate
+Logging Framework: Splunk, Log4J, SLF4j
+Testing: JUnit Test + Mokito 
+Database: Oracle SQL, MySQL
+Container Management tools: Docker, Kubernates
+Version-control system + repository hosting service: Git , bitbucket
+
+Understanding of Front End: HTML, CSS, and JavaScript.
+
+
+
+
+
+JVM internals 	https://www.java67.com/2016/10/difference-between-heap-and-stack-memory-in-java-JVM.html
+Java Best Practices
+
+https://javarevisited.blogspot.com/2014/08/socket-programming-networking-interview-questions-answers-Java.html
